@@ -10,5 +10,6 @@ public class Runner {
     {
         JOptionPane.showMessageDialog(null,"Welcome to gitHub","Information",JOptionPane.INFORMATION_MESSAGE);
         JOptionPane.showMessageDialog(null,"Welcome to gitHub","Information",JOptionPane.INFORMATION_MESSAGE);
+        System.out.println("ljkada");
 }
 }
